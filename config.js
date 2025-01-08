@@ -1,6 +1,6 @@
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['6285749517016']
-global.ownMain = '6285749517016'
+global.owner = ['6283198382804']
+global.ownMain = '6283198382804'
 global.NamaOwner = 'Chloe -𝗱𝗲𝘃 𝗯𝘂𝗴'
 global.sessionName = 'session'
 global.foto = 'https://i.postimg.cc/B6wVRnzf/famofc.jpg'
